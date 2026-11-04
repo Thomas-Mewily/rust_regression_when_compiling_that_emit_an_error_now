@@ -1,0 +1,17 @@
+{
+    "idleHeartbeats": 366,
+    "navigatingHeartbeats": 129,
+    "totalCodingHeartbeats": 2210,
+    "languageHeartbeats": {
+        "toml": 454,
+        "rust": 336,
+        "markdown": 1420
+    },
+    "fileHeartbeats": {
+        "Cargo.toml": 276,
+        "custom_collection/Cargo.toml": 178,
+        "index_get/src/lib.rs": 227,
+        "custom_collection/src/lib.rs": 109,
+        "readme.md": 1420
+    }
+}
